@@ -12,7 +12,7 @@ def tambah_teks(gambar, teks):
     return gambar
 
 # Baca dua gambar
-img1 = cv2.imread('logo2.jpg')
+img1 = cv2.imread('kiww.jpg')
 img2 = cv2.imread('logo.jpg')
 
 # Cek apakah gambar berhasil dibaca
